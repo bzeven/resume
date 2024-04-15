@@ -1,0 +1,11 @@
+body {
+    background-color:burlywood;
+}
+header {
+    background-color: green;
+}
+article {
+    display: grid;
+    grid-template-columns: 1fr ;
+    
+  }
